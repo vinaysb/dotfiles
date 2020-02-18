@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/bio/CraftRoot/craft'
+let g:netrw_dirhist_2='/Volumes/Untitled/Nintendo/Contents/registered/00000008/3bd378582831b509d186d9f43a220ff0.nca'
+let g:netrw_dirhist_3='/Volumes/Untitled/Nintendo/Contents/registered/0000000A/7c59e2cbffdff8f44a2a703294d15fe2.nca'
+let g:netrw_dirhist_4='/Volumes/Untitled/Nintendo/Contents/registered/00000008/3bd378582831b509d186d9f43a220ff0.nca'
+let g:netrw_dirhist_5='/Users/bio/.oh-my-zsh/plugins'
